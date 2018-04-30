@@ -32,7 +32,7 @@ public class SpringTest {
     }
 
     @Test
-    // 插入数据 增
+    // 插入数据 增   并返回插入id
 
     public void insertUser() {
         User user = new User();
